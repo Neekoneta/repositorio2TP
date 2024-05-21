@@ -1,19 +1,30 @@
 .arriba{
     height: 15%;
     background-color: black;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 .medio{
     height: 70%;
     background-color: grey;
 }
-.abajo{height: 15%;
+.abajo{height: 85%;
         background-color: rgb(55, 55, 56);
 }
 .izq{
     height: 100%;
     background-color: dodgerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 .der{
     height: 100%;
-    background-color: rgb(128, 157, 186);
+    background-color: rgb(14, 96, 178);
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    
 }

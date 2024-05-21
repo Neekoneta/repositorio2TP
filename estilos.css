@@ -1,0 +1,19 @@
+.arriba{
+    height: 15%;
+    background-color: black;
+}
+.medio{
+    height: 70%;
+    background-color: grey;
+}
+.abajo{height: 15%;
+        background-color: rgb(55, 55, 56);
+}
+.izq{
+    height: 100%;
+    background-color: dodgerblue;
+}
+.der{
+    height: 100%;
+    background-color: rgb(128, 157, 186);
+}

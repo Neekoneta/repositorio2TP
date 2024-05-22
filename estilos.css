@@ -56,4 +56,22 @@
 li{
     font-size: 30px;
     font-style: oblique;
+    list-style: none;
+}
+.formacion{
+    background-color: rgb(55, 55, 56) ;
+    height: 20%;
+    
+}
+.formacionacademicaletra{
+    font-size: 35px;
+    color: white;
+    text-shadow: 1px 2px black;
+    font-family: arial;
+    align-items: center;
+    justify-content: center;
+}
+.letra{
+    color: white;
+    font-style: oblique;
 }

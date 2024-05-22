@@ -39,6 +39,7 @@
     margin-top: 100px;
     text-shadow: 2px 5px black;
     font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
 }
 .abajoo{
     height: 40%;
@@ -60,9 +61,13 @@ li{
 }
 .formacion{
     background-color: rgb(55, 55, 56) ;
-    height: 20%;
-    
+    height: 30%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
 }
+
 .formacionacademicaletra{
     font-size: 35px;
     color: white;
@@ -74,4 +79,19 @@ li{
 .letra{
     color: white;
     font-style: oblique;
+   
+}
+
+.contacto{
+    height: 40%;
+    background-color: rgb(55, 55, 56) ;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.imagenmedio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 305px;
 }

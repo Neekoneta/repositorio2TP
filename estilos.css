@@ -132,3 +132,77 @@ li{
     letter-spacing: 1px;
     
 }
+.caja{
+    background-color: rgba(255, 192, 203, 0.223);
+  
+    height: 300px;
+    border: black solid 1px;
+    text-align: center;
+    margin: 2px;
+    justify-content: flex-start;
+}
+.grid-layout{
+    background-color: black;
+    width: 90%;
+    margin: 0 auto;
+    padding: 1px;
+    display: grid;
+    grid-template-columns: 35% 15% 35% 15%;
+}
+.caja1{background-color:rgb(14, 96, 178);
+    font-size: 22px;
+    height: 300px;
+    border: black solid 1px;
+    text-align: center;
+    margin: 2px;
+    
+
+}
+.caja2{background-image: url('https://static.wikia.nocookie.net/leagueoflegendsoficial/images/3/35/Neeko_loading_screen.jpg/revision/latest/scale-to-width-down/250?cb=20190830033449&path-prefix=es');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    border: black solid 1px;
+    text-align: center;
+    margin: 2px;
+    }
+.caja3{background-image: url('https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Pantalla_de_carga_-_Akali_KDA_ALL_OUT.jpg/revision/latest/scale-to-width-down/200?cb=20230727202634&path-prefix=es');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    border: black solid 1px;
+    text-align: center;
+    margin: 2px;
+}
+.caja4{background-repeat: no-repeat;
+   background-image: url('https://static.wikia.nocookie.net/leagueoflegendsoficial/images/7/7f/Ekko_loading_screen.jpg/revision/latest/scale-to-width-down/250?cb=20160914225404&path-prefix=es');
+    background-size: cover;
+    height: 300px;
+    border: black solid 1px;
+    text-align: center;
+    margin: 2px;
+}
+.caja5{background-image: url('https://static.wikia.nocookie.net/leagueoflegendsoficial/images/c/cb/Yasuo_loading_screen.jpg/revision/latest/scale-to-width-down/250?cb=20170326194057&path-prefix=es');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    border: black solid 1px;
+    text-align: center;
+    margin: 2px;
+}
+.caja6{background-image: url('https://s0.smartresize.com/wallpaper/288/174/HD-wallpaper-yone-league-of-legends.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    border: black solid 1px;
+    text-align: center;
+    margin: 2px;
+}
+.caja7{background-image: url('https://e1.pxfuel.com/desktop-wallpaper/867/812/desktop-wallpaper-irelia-league-of-legends-ultra-mobile-irelia-lol-thumbnail.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    border: black solid 1px;
+    text-align: center;
+    margin: 2px;
+}
